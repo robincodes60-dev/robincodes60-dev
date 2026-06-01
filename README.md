@@ -1,66 +1,76 @@
-<h1>Hi, I'm Robin! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+# Hi, I'm Robin Otieno Were 👋
+### Software Developer · Network Engineer · Nairobi, Kenya
 
-Portfolio:
-<https://robincodes60-dev.github.io/robin-were-portfolio-network-software-engineer-/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/robin-were)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a18?style=flat&logo=github&logoColor=white)](https://robincodes60-dev.github.io/robin-were-portfolio-network-software-engineer-/)
+[![Email](https://img.shields.io/badge/Email-robinwere4@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:robinwere4@gmail.com)
 
-<h2>👨‍💻 Software Development Projects:</h2>
+---
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+> Motivated early-career IT professional bridging **full-stack development** and **next-generation telecom infrastructure**. Nokia-certified, CCNA-certified, and passionate about automation, network programmability, and building purposeful software.
 
-<h2>📺 Popular YouTube Videos</h2>
+---
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+## 👨‍💻 Software Development Projects
 
+- **Network Vulnerability Scanner** · Python, Nmap
+  - [github.com/kacha930/Network-Security-Scanner](https://github.com/kacha930/Network-Security-Scanner)
+  - Python-based scanner with stealth, basic & vuln-focused scan modes, IP range validation, JSON reporting
 
-<h2>📺 Certifications</h2>
+- **Nokia Wi-Fi App — Network Feature Simulation** · Flask, Mock APIs
+  - [github.com/kacha930/fixed_network_demo_app](https://github.com/kacha930/fixed_network_demo_app)
+  - Simulated real-world firmware behaviour, demonstrating network-to-application layer integration
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- **Interactive Quiz Application** · JavaScript, HTML/CSS, REST API
+  - Responsive web app with live API data, local storage leaderboards, and cross-device support
 
-<h2> 🤳 Connect with me:</h2>
+- **Football Management System** · Python, SQLAlchemy, OOP
+  - CLI database app with full CRUD operations and ORM relationships
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- **eCommerce + M-Pesa Integration** *(In Progress)* · React, Flask, M-Pesa API
+  - Full-stack eCommerce platform integrating M-Pesa payment gateway and delivery APIs
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+---
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Network & Telecom Work
 
-Here are some ideas to get you started:
+- **Nokia Fixed Networks Internship** — Nokia Kenya (Jul–Dec 2025)
+  - OLT configuration via Nokia Altiplano (VC & AC) and Lightspan for FTTH/GPON networks
+  - Implemented SDAN (Software-Defined Access Network) service provisioning
+  - Built automation scripts to reduce manual network configuration overhead
+  - Explored NETCONF/YANG protocols and Nokia Corteca Fastmile Controller
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Development**
+`Python` `Flask` `React` `JavaScript` `HTML/CSS` `REST APIs` `SQLAlchemy`
+
+**Networks & Telecom**
+`GPON / FTTH / FTTX` `Nokia Altiplano` `Nokia Corteca` `NETCONF/YANG` `LAN/WAN` `IP Subnetting` `Wireshark` `SCADA`
+
+**Systems & Tools**
+`Linux / Ubuntu` `Nmap` `Git` `Docker` `Process Automation` `RAID Systems`
+
+---
+
+## 📜 Certifications & Education
+
+| Credential | Institution | Year |
+|---|---|---|
+| Nokia Fixed Network Certification | Nokia Kenya | 2025 |
+| Cisco Certified Network Associate (CCNA) | JKUAT | 2024 |
+| Software Engineering Bootcamp | Moringa School | 2024 |
+| B.Sc. Business Information Technology | Murang'a University of Technology | 2022 |
+| Nokia IP Certification *(In Progress)* | Nokia | 2026 |
+
+---
+
+## 🤳 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Robin%20Were-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/robin-were)
+[![GitHub](https://img.shields.io/badge/GitHub-kacha930-181717?style=flat&logo=github&logoColor=white)](https://github.com/kacha930)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-1a1a18?style=flat&logo=vercel&logoColor=white)](https://robincodes60-dev.github.io/robin-were-portfolio-network-software-engineer-/)
+
+📍 Nairobi, Kenya &nbsp;|&nbsp; 📞 +254 (0) 727 288 417 &nbsp;|&nbsp; 📧 robinwere4@gmail.com

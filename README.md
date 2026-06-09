@@ -41,7 +41,23 @@
   - Explored NETCONF/YANG protocols and Nokia Corteca Fastmile Controller
 
 ---
-
+CCNA1 Module 1: Networking Today
+CCNA1 Module 2: Basic Switch and End Device Configuration
+CCNA1 Module 3: Protocols and Models
+CCNA1 Module 4: Physical Layer
+CCNA1 Module 5: Number Systems
+CCNA1 Module 6: Data Link Layer
+CCNA1 Module 7: Ethernet Switching
+CCNA1 Module 8: Network Layer
+CCNA1 Module 9: Address Resolution
+CCNA1 Module 10: Basic Router Configuration
+CCNA1 Module 11: IPV4 Addressing
+CCNA1 Module 12: IPV6 Addressing
+CCNA1 Module 13: ICMP
+CCNA1 Module 14: Transport Layer
+CCNA1 Module 15: Application Layer
+CCNA1 Module 16: Network Security Fundamentals
+CCNA1 Module 17: Build a small Network
 ## 🛠️ Tech Stack
 
 **Development**
